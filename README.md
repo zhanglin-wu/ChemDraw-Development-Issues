@@ -1,6 +1,10 @@
 # ChemDraw Development Issues
 Welcome to ChemDraw Development Issues, this is a place to note down the ChemDraw development related issues for future reference.
 
+**Contents**
+- [Refactoring](#Refactoring)
+- [SKU and Component](#SKU-and-Component)
+
 ## Refactoring
 
 ### SKU and Component
